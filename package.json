@@ -1,0 +1,23 @@
+{
+  "name": "vscode2",
+  "version": "1.0.0",
+  "description": "Its my backend course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Head2On/Backenddev.git"
+  },
+  "keywords": [
+    "Backend",
+    "project"
+  ],
+  "author": "Ishan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Head2On/Backenddev/issues"
+  },
+  "homepage": "https://github.com/Head2On/Backenddev#readme"
+}
