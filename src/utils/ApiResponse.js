@@ -6,3 +6,5 @@ constructor(statusCode,data,message = "success"){
     this.success = statusCode === 200
 }
 }
+
+export { ApiResponse}
